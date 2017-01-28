@@ -1,0 +1,24 @@
+﻿入力UI → index.html が行方不明。
+再作成必要
+
+Twitterから画像を取得する方法
+  TwitterAPI
+  SerchAPIの利用
+  https://dev.twitter.com/rest/public/search
+  (問題点 180回/15分 がリミット)
+
+位置情報を検索する方法
+  Geolocation API
+  https://syncer.jp/how-to-use-geolocation-api
+  表示？
+  http://www.flapism.jp/other/131/
+
+画像をオブジェクトとしてバウンドさせたりする方法
+  Matter-jsが有効？？
+  http://www.aipacommander.com/entry/2015/01/27/080000
+
+常に最新のものを取得し続ける方法
+
+RT数，ファボ数の取得
+  Hello APIの取得
+  http://hello-apis.blogspot.jp/2013/02/twitter-api.html

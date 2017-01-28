@@ -1,0 +1,27 @@
+
+
+body {
+  padding-left: 180px;
+  display: flex;
+}
+
+.bg {
+  width: 1080px;
+  height: 160px;
+  background: url('./image/header.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.serch {
+  background-color: #f0fbff;
+  color: black;
+  width: 220px;
+  height: 40px;
+  padding: 15px;
+  margin: 20px;
+  margin-top: 200px;
+  box-shadow: 10px 10px 20px #000000;
+  float: left;
+}
